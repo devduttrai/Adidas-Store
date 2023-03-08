@@ -1,0 +1,17 @@
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-sm: 20px;
+  --font-size-base: 32px;
+  --font-size-lg: 36px;
+
+  /* Colors */
+  --color-gainsboro-100: #ddd;
+  --color-black: #000;
+  --color-gray: #1e1e1e;
+
+  /* border radiuses */
+  --br-md: 18px;
+}

@@ -1,0 +1,199 @@
+body {
+  line-height: normal;
+}
+.impossible {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.nothing,
+body {
+  margin: 0;
+}
+.impossible-is-nothing-container {
+  position: absolute;
+  top: 33px;
+  left: 873px;
+  font-size: 255px;
+  font-weight: 200;
+  opacity: 0.05;
+}
+.icons8-adidas-trefoil-100-xhd {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.men {
+  position: absolute;
+  top: 31px;
+  left: 209px;
+}
+.category,
+.sale,
+.snkrs,
+.women {
+  position: absolute;
+  top: 31px;
+  left: 337px;
+}
+.category,
+.sale,
+.snkrs {
+  left: 519px;
+}
+.category,
+.snkrs {
+  left: 655px;
+}
+.category {
+  top: 50px;
+  left: 55px;
+  width: 762px;
+  height: 100px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray);
+}
+.adidas-yeezy {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 64px;
+  font-weight: 600;
+}
+.designed-by-musical,
+.foam-runner {
+  position: absolute;
+  top: 99px;
+  left: 0;
+  font-size: 40px;
+  font-weight: 300;
+}
+.designed-by-musical {
+  top: 176px;
+  left: 4px;
+  font-size: 24px;
+  display: inline-block;
+  width: 395px;
+}
+.div,
+.group-child {
+  position: absolute;
+  top: 344px;
+  left: 9px;
+}
+.group-child {
+  top: 0;
+  left: 0;
+  border-radius: 35px;
+  background-color: #fff;
+  width: 300px;
+  height: 90px;
+}
+.add-to-cart {
+  position: absolute;
+  top: 23px;
+  left: 51px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 321px;
+  left: 190px;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.46);
+  width: 300px;
+  height: 90px;
+}
+.hero-shoe {
+  position: absolute;
+  top: 240px;
+  left: 120px;
+  width: 490px;
+  height: 411px;
+  font-size: var(--font-size-lg);
+}
+.shoe-1-child {
+  position: absolute;
+  top: 262px;
+  left: 63px;
+  border-radius: var(--br-md);
+  background-color: #e0dcdc;
+  width: 244px;
+  height: 166px;
+}
+.images-3-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 389.32px;
+  height: 407.26px;
+  object-fit: cover;
+}
+.adidas-yeezy-slides-container,
+.div1 {
+  position: absolute;
+  top: 337px;
+  left: 87px;
+  font-weight: 600;
+}
+.div1 {
+  top: 385px;
+  left: 232px;
+}
+.shoe-1,
+.shoe-2-child {
+  position: absolute;
+  top: 561px;
+  left: 33px;
+  width: 389.32px;
+  height: 428px;
+}
+.shoe-2-child {
+  top: 150px;
+  left: 15px;
+  border-radius: var(--br-md);
+  background-color: var(--color-gainsboro-100);
+  width: 244px;
+  height: 166px;
+}
+.images-4-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 274.31px;
+  height: 257px;
+  object-fit: cover;
+}
+.adidas-yeezy-boost-container {
+  position: absolute;
+  top: 225px;
+  left: 39px;
+  font-weight: 600;
+}
+.div2,
+.shoe-2 {
+  position: absolute;
+}
+.div2 {
+  top: 273px;
+  left: 191px;
+  font-weight: 600;
+}
+.shoe-2 {
+  top: 673px;
+  left: 398px;
+  width: 274.31px;
+  height: 316px;
+}
+.adidas-site {
+  position: relative;
+  border-radius: 55px;
+  background-color: var(--color-gainsboro-100);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
